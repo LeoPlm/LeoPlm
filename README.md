@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoPlm
 - 👀 I’m interested in coding :O :O 
-- 🌱 I’m currently learning Symfony and Java
+- 🌱 I’m currently learning Symfony and JavaScript
 - 💞️ I’m looking to collaborate on ecommerce websites
 - 📫 How to reach me Here
 - 😄 Pronouns: He/him
