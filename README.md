@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoPlm
 - 👀 I’m interested in coding :O :O and hiking but it's not the right place for it I guess
 - 🌱 I’m currently coding in NextJS
-- 💞️ I’m looking to collaborate on ecommerce websites
+- 💞️ I’m looking to improve my skills again and again
 - 📫 How to reach me : Here 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Ask to the guy that brings the letters
