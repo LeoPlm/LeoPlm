@@ -1,7 +1,5 @@
-Hi, I’m Léo Plumail, a passionate fullstack web developer specializing in React, Node.js, and MongoDB.
+Hello, 
 
-I enjoy building scalable and efficient web applications, from e-commerce sites with Stripe integration to interactive fullstack games.
+I love programming. Js is the language I'm the most familial with, but I also can code in Python and Php. Currently learning some Java and its frameworks.
 
-Feel free to explore my projects and reach out if you want to collaborate!
-
-Portfolio: https://leo-plumail.vercel.app/
+Well nothing much to say, Cya
